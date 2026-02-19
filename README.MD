@@ -23,6 +23,6 @@ Este projeto é um validador de endereços desenvolvido em Python, focado em gar
 
 ## 📦 Como Instalar e Rodar
 
-1. Clone o repositório:
+1. **Clone o repositório:**
    ```bash
-   git clone git clone https://github.com/matheusebrasil/Validate_address.git
+   git clone [https://github.com/matheusebrasil/Validate_address.git](https://github.com/matheusebrasil/Validate_address.git)
